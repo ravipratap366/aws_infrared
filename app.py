@@ -10,7 +10,7 @@ from langchain.chains import ConversationalRetrievalChain
 from htmlTemplates import css, bot_template, user_template
 from langchain.llms import HuggingFaceHub
 import os
-
+#Ravi
 #os.environ['OPENAI_API_KEY'] = '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'
 
 
